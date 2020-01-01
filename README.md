@@ -7,3 +7,7 @@ Basically review the code with developer options, e re-write it by myself
 Some skills necessary:
 -Basic HTML knowledge: creating index, paragraphs, divs, forms, etcs
 -Styling the HTML trought CSS: choosing color, positioning, dimension etc
+
+Online at 
+
+https://lrdvnz.github.io/google-homepage/
