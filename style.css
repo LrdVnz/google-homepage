@@ -1,34 +1,49 @@
-body {
+ body {
 font-size: 12px;
-}
+ }
 
-img {
- width: 350px;
- height: 150px;	
+  .google-wrapper {
  position: fixed;
- top:0;
- bottom: 200px;
- left: 40px;
- right: 0;  	
  margin: auto;
  }
 
-form { 
- width: 500px;
+
+ img {
+ width: 275px;
+ height: 125px;	
+ position: absolute;
+ top:175px;
+ bottom: 200px;
+ left: 560px;
+ right: 0;  	
+ }
+
+ form {
+ width: 550px;
+ height: 100px;
+ position: absolute;
+ top: 300px;
+ bottom:0;
+ left: 415px;
+ right: 0;
+}
+
+ #search form{ 
+ width: 550px;
  height: 100px;
  position: fixed;
  top: 300px;
  bottom:0;
  left: 450px;
  right: 0;
-}
+ }
 
-input {
-  width: 500px;
+ input {
+  width: 550px;
   height: 25px;
-}
+ }
 
-#type {
+ #type {
  border-radius: 25px;
  border-top-style: solid;
  border-top-color:#eaeaea;
@@ -39,13 +54,13 @@ input {
  border-left-style: solid;
  border-left-color: #eaeaea;
  height: 30px;
-}
+ }
 
 #submitsearch {
   width: 130px;
   height: 40px;
   position: relative;
-  left: 100px;
+  left: 150px;
   top: 25px;
   background-color: #d5d2d27a;
   border-radius: 3px;
@@ -53,57 +68,57 @@ input {
   border-left-width: 0px;
   border-bottom-width: 0px;
   border-top-width: 0px;
-}
+ }
 
 #ifeellucky {
  width: 130px;
  height: 40px;
  position: relative;
  top: 25px;
- left: 135px;
+ left: 175px;
  background-color: #d5d2d27a;
  border-radius: 3px;
  border-right-width: 0px;
  border-left-width: 0px;
  border-bottom-width: 0px;
  border-top-width: 0px;
-}
+ }
 
  ul {
   list-style-type: none;
   margin: 0;
   padding: 2px;
-}
+ }
 
-li {
+ li {
   float: left;
-}
+ }
 
-a {
+ a {
 text-decoration: none;
-}
+ }
 
 #aboutusstore a {
   display: block;
   padding: 15px;
   color: #2d2c2c;
-}
+ }
 
-a:hover {
+ a:hover {
   text-decoration: underline;
-}
+ }
 
-#GmailImages {
+ #GmailImages {
  float:right;
-}
+ }
 
-#GmailImages a {
+ #GmailImages a {
  display: block;
   padding: 15px;
   color: #2d2c2c;
-}
+ }
 
-#SignIn {
+ #SignIn {
  display: block;
  background-color: #3371ea;
  border-radius: 3px;
@@ -114,36 +129,36 @@ a:hover {
  border-top: 5px solid white;
  height: 35px;
  width: 70px;
-}
+ }
 
-#SignIn a {
+ #SignIn a {
     padding-top: 10px;
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
     color: white;
-}
+ }
 
-#advbusiness {
+ #advbusiness {
   position: absolute;
   bottom: 0;
-}
+ }
 
-#advbusiness a {
+ #advbusiness a {
   display: block;
   padding: 15px;
   color: #7d7b7b;
   width: 100%;
-}
+ }
 
-#privacyterms {
+ #privacyterms {
   position: absolute;
   bottom: 0;
   left: 1094px;
-} 
+ } 
  
-#privacyterms a {
+ #privacyterms a {
   display: block;
   padding: 15px;
   color: #7d7b7b;
-}
+ }
